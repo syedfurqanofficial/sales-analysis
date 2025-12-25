@@ -1,3 +1,5 @@
+CLIENT'S REQUIREMENTS
+
 1. "Are discounts a smart long-term tool, or do they cheapen our brand and attract bad 
 customers?" (Q1, Q2, Q3) 
 2. "Where should I spend my marketing budget for the best return?" (Q4, Q5, Q6, Q7, Q8, Q9) 
