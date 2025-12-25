@@ -8,7 +8,7 @@ customers?" (Q1, Q2, Q3)
 
 I recommended this strategy below based on a thorough analysis of the data, combined with my professional knowledge and experience. The rationale behind why this strategy is appropriate and the likelihood of its success are supported by detailed insights derived from SQL analysis. The key findings and numerical evidence identified through SQL clearly justify this strategy, which can be reviewed in the SQL reports and PDF analysis. For greater clarity and better visualization, the results are also presented through an interactive Power BI dashboard.
 
-Based on the answers, here is the 3-Part Strategy your client is probably crafting:
+Based on the answers, here is the 3-Part Strategy:
 
 Part 1: The Growth Engine (Acquisition) 
 
